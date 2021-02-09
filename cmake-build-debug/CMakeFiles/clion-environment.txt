@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Users\31219\Documents\CLionProjects\COMPILER\minGW\mingw64
+Options: 
+
+Options:
